@@ -7,5 +7,5 @@
 </div>
 
 <div align="left">
-   - <a href="./expressjs-connected-mysql-RESTful-API-insert-update-delete-ENV-commit-rollback">Link to view entire expressjs-connected-mysql-RESTful-API-insert-update-delete-ENV-commit-rollback-</a>
+   - <a href="./expressjs-connected-mysql-RESTful-API-insert-update-delete-ENV-commit-rollback">Link to view entire expressjs-connected-mysql-RESTful-API-insert-update-delete-ENV-commit-rollback</a>
 </div>
