@@ -14,22 +14,22 @@ pastikan sebelumnya telah menginstall paket diperlukan yaitu :
 
     - cara install
 
-        ❯ npm install mysql
+            ❯ npm install mysql
 
-        `#install locally (recommended)`
+            `#install locally (recommended)`
 
-        ❯ npm install dotenv --save
+            ❯ npm install dotenv --save
 
 
     - tampilkan list paket
     
-        ❯ npm list
-      
-            ├── dotenv@16.0.3
-  
-            ├── express@4.18.0
+            ❯ npm list
         
-            └── mysql@2.18.1
+                ├── dotenv@16.0.3
+    
+                ├── express@4.18.0
+            
+                └── mysql@2.18.1
 
 
 periksa file json dan buat file js secara manual serta isinya.
