@@ -11,13 +11,15 @@ pastikan sebelumnya telah menginstall paket diperlukan yaitu :
 
 - mysql, dotenv
 
+
     - cara install
 
-	❯ npm install mysql
+        ❯ npm install mysql
 
         `#install locally (recommended)`
-      
-	❯ npm install dotenv --save
+
+        ❯ npm install dotenv --save
+
 
     - tampilkan list paket
     
