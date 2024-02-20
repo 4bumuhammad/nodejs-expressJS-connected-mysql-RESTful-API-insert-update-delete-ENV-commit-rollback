@@ -18,6 +18,8 @@ pastikan sebelumnya telah menginstall paket diperlukan yaitu :
     - tampilkan list paket
     
         ❯ npm list
+      
+  					├── dotenv@16.0.3
   
             ├── express@4.18.0
         
